@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Idris-lawal
-- 👀 I’m interested in Data analyst
+- 👀 I am interested in Data Analysis, Big Data and Machine Learning
 - 🌱 I’m currently learning  Python
 - 💞️ I’m looking to collaborate on Data cleaning and visualization
 - 📫 How to reach me 
