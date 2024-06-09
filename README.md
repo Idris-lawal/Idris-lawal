@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Python
 - 💞️ I’m looking to collaborate on Data cleaning and visualization
 - 📫 How to reach me 
-  Linkedin : https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+  Linkedin : https://www.linkedin.com/in/lawal-idris-o/
   What'sapp: 08029693008
 
 <!---
